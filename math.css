@@ -1,0 +1,87 @@
+*{
+    background-color: antiquewhite;
+}
+.Buttons{
+    align-items: center;
+    text-align: center;
+    margin: 10%;
+    padding: 100;
+    margin: 5px;
+    background-image: url(math.jpg);
+
+}
+h1{
+    text-align: center;
+    background-color:#c93fba;
+}
+.btn1{
+    margin: 50px;
+    font-size: x-large;
+    background-color: green;
+    border-style: unset;
+    border-collapse: collapse;
+}
+.btn2{
+    margin: 50px;
+    font-size: x-large;
+    background-color: red;
+    border-style: unset;
+    border-collapse: collapse;
+}
+.btn3{
+    margin: 50px;
+    font-size: x-large;
+    background-color: aqua;
+    border-style: unset;
+    border-collapse: collapse;
+}
+.btn4{
+    margin: 50px;
+    font-size: x-large;
+    background-color: blue;
+    border-style: unset;
+    border-collapse: collapse;
+}
+.btn5{
+    margin: 50px;
+    font-size: x-large;
+    background-color: blue;
+    border-style: unset;
+    border-collapse: collapse;
+}
+.btn6{
+    margin: 50px;
+    font-size: x-large;
+    border-style: unset;
+    border-collapse: collapse;
+    background-color: brown;
+}
+.btn7{
+    margin: 50px;
+    font-size: x-large;
+    border-style: unset;
+ background-color: brown;
+    border-collapse: collapse;
+}
+.btn8{
+    margin: 50px;
+    font-size: x-large;
+    border-style: unset;
+    border-collapse: collapse;
+    background-color: blueviolet;
+}
+.btn9{
+    margin: 50px;
+    font-size: x-large;
+    border-style: unset;
+    border-collapse: collapse;
+    background-color: springgreen;
+    
+}
+.btn10{
+    margin: 50px;
+    font-size: x-large;
+    border-style: unset;
+    border-collapse: collapse;
+    background-color: blue;
+}

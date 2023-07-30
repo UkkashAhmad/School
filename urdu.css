@@ -1,0 +1,58 @@
+.img{
+    border: 5px solid black;
+    margin: 200px 300px;
+    margin-top: 1px;
+    width: 698px;
+    height: 415px;
+ 
+}
+.header{
+    text-align: center;
+    border: 18px solid #0006ff;
+    margin-bottom: -32px;
+    color: bisque;
+}
+.caption{
+    text-align: center;
+    padding: 30px;
+    color: #ff14d5;
+}
+body{
+    background-image: url(bacc.avif);
+   background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+table{border: 3px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: -208px;
+    height: 1px;
+    }
+td,th{
+    width: 10%;
+    border: 3px solid #00f59b;
+    padding: 0px;
+    
+    
+    
+}
+th{
+    text-align: left;
+}
+button{
+    font-family: initial;
+    border-style: outset;
+    font-size: xx-large;
+    cursor: -webkit-grab;
+    height: 100px;
+    width: 303px;
+    
+}
+button:hover{
+    transition: 1s;
+    background: green;
+}
+tr{
+    height: 100px;
+}
